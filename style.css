@@ -59,21 +59,25 @@ height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
-    border-radius: 50%;
+    border-radius: 80%;
     overflow: hidden;
 }
 .profile-photo img{
     height: 6rem;
+    margin-bottom: 20px;
+    margin-top: 10px;
 }
 .instagram-login{
     background-color: #009586;
     color: #ffff;
     padding: 8px;
     border-radius: 4px;
+   
 }
 .instagram-logout{
     color: #009586;
     margin-top: 1rem;
+   margin-bottom: 10px;
 
 }
 .not-account{
@@ -91,7 +95,7 @@ height: 100vh;
     padding: 1.3rem 0;
     font-weight: bold;
 }
-/*.dowload{
+/*.dowload-um{
     display: flex;
     width: 100%;
     justify-content: space-evenly;
