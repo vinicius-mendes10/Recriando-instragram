@@ -95,22 +95,22 @@ height: 100vh;
     padding: 1.3rem 0;
     font-weight: bold;
 }
-/*.dowload-um{
+.download-um{
     display: flex;
     width: 100%;
     justify-content: space-evenly;
     align-items: center;
     padding: 1rem;
 }
-.app-dowload{
+.app-download{
     height: 3rem;
     width: 10rem;
     background-size: cover;
 }
-.app-dowload:nth-child(1){
+.app-download:nth-child(1){
 background-image: url("https://www.seekpng.com/png/full/143-1437555_apple-store-2-download-on-ios-button.png");
 }
-.app-dowload:nth-child(2){
+.app-download:nth-child(2){
     background-image: url("https://www.seekpng.com/png/full/369-3690630_google-appstore-button-available-on-google-store.png");
 }
 
